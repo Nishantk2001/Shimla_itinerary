@@ -109,6 +109,9 @@ nav {
 .nav-fixed ul li a {
   color: #00a8b4;
 }
+.nav-fixed i {
+  color: #00a8b4;
+}
 
 header {
   width: 100%;
